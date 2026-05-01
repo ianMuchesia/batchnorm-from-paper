@@ -1,0 +1,5 @@
+BatchNorm Gradient Check Results:
+- dx Max Relative Error: 7.64e-07
+- d_gamma Max Relative Error: 7.39e-11
+- d_beta Max Relative Error: 8.60e-11
+Status: VERIFIED ✅
